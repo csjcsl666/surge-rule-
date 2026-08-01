@@ -5,4 +5,7 @@ DOMAIN-SUFFIX,api3.byapps.net
 DOMAIN-SUFFIX,ws2.byapps.net
 DOMAIN-SUFFIX,api3.ng-dex.com
 DOMAIN-SUFFIX,ws2.ng-dex.com
+DOMAIN-SUFFIX,fh-static.bycsi.com
+DOMAIN-SUFFIX,s1.bycsi.com
+DOMAIN-SUFFIX,t1.bycsi.com
 DOMAIN-KEYWORD,bybit
