@@ -1,7 +1,8 @@
 # Bybit
-DOMAIN-SUFFIX,bybit.com,Bybit
-DOMAIN-SUFFIX,bybit.biz,Bybit
-DOMAIN,api3.byapps.net,Bybit
-DOMAIN,ws2.byapps.net,Bybit
-DOMAIN,api3.ng-dex.com,Bybit
-DOMAIN,ws2.ng-dex.com,Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,api3.byapps.net
+DOMAIN-SUFFIX,ws2.byapps.net
+DOMAIN-SUFFIX,api3.ng-dex.com
+DOMAIN-SUFFIX,ws2.ng-dex.com
+DOMAIN-KEYWORD,bybit
